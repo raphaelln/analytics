@@ -22,10 +22,11 @@ There are five kinds of accidents:
 - Top 3 cities with max number of accidents by state between 2003 and 2007 in Brazil.
 
 ### Result
+- Results will be stored as parquet compressed files.
+- Results will be stored as json uncompressed files.
 
+### Files
+- /accidents/retrieve.sh - Download the files from dataprev site and put on the hdfs
+-/accidents/solution.py - Solution implemented with spark + spark Sql in python.
 
-
-
-
-1)
-Several  analytics scenarios
+### Sample output
