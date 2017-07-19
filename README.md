@@ -2,7 +2,7 @@
 
 This repository will contain some data analytics scenarios resolved using spark framework.
 
-# Requirments
+# Requirements
 - cloudera distribution VM
 
 # Scenario
