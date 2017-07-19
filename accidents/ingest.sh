@@ -10,5 +10,5 @@ wget -O accident-2009.csv http://api.dataprev.gov.br/previdencia/anuario/2009/ac
 
 
 #copy to hdfs
-hdfs dfs -mkdir /user/cloudera/accidents/ingest
+hdfs dfs -mkdir -p /user/cloudera/accidents/ingest
 hdfs dfs -copyFromLocal accident-200*.csv /user/cloudera/accidents/ingest/
