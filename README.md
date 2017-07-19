@@ -5,7 +5,7 @@ This repository will contain some data analytics scenarios resolved using spark 
 # Requirments
 - cloudera distribution VM
 
-#Scenario
+# Scenario
 
 ## Top 3 cities with more accidents in Brazil between 2003 and 2007
 
