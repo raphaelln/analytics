@@ -27,6 +27,6 @@ There are five kinds of accidents:
 
 ### Files
 - /accidents/retrieve.sh - Download the files from dataprev site and put on the hdfs
--/accidents/solution.py - Solution implemented with spark + spark Sql in python.
+- /accidents/solution.py - Solution implemented with (spark + spark Sql) using python.
 
 ### Sample output
